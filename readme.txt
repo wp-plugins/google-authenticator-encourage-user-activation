@@ -16,8 +16,8 @@ The [Google Authenticator](http://wordpress.org/plugins/google-authenticator/) p
   
 This plugin helps administrators to encourage users to activate it, and has two different methods for doing that, depending on how strict you want to be:
 
-* Nag the user: An error message will appear at the top of the Administration Panels, asking them to enable two-factor authentication. The message goes away when they enable it. This is the default behavior.
-* Force the user: The user will be prevented from doing anything in the Administration Panels until they activate it. They're temporarily assigned the role of a Subscriber, and redirected to their profile whenever they try to access another screen. Once they enable two-factor authentication, their original role is restored and they can access other screens again. 
+* **Nag the user:** An error message will appear at the top of the Administration Panels, asking them to enable two-factor authentication. The message goes away when they enable it. This is the default behavior.
+* **Force the user:** The user will be prevented from doing anything in the Administration Panels until they activate it. They're temporarily assigned the role of a Subscriber, and redirected to their profile whenever they try to access another screen. Once they enable two-factor authentication, their original role is restored and they can access other screens again. 
 
 
 == Installation ==
