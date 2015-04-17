@@ -1,1 +1,2 @@
+* Don't allow admin to enable Force mode if they don't have 2FA enabled, because they'd lock themselves out
 * Internationalize
